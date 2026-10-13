@@ -4,6 +4,8 @@ This is the Andela x Miva x OpenAI Codex Accelerator Hackathon workspace. The us
 
 ## Resume with context
 
+The13October repository-presentation increment identifies the product as **LittleFurther**. The existing private repositories are now **IronSyd/littlefurther** and **MikeIronSyd/littlefurther**, preserving their IDs/history. `docs/README.md`, `docs/ARCHITECTURE.md` and `docs/DEVELOPMENT.md` provide product/developer/judge navigation; `docs/assets/littlefurther/` contains original-geometry lockups and current actual-interface captures using synthetic accounts/mocked AI-search. Read `increments/repository-presentation.md` and its verification for exact local review, metadata/render/tracker/publication results. Historical old-slug commit links remain intact and rely on verified redirects. Workspace/source paths, privacy, app behavior, licensing and CI remain unchanged.
+
 On12October2026 Michael explicitly approved the current overall implemented LittleFurther visual design: “okay, it's approved now”. D016 in `docs/specs/capstone/design.md` records baseline5b9d0a8, scope and limits. Overall human visual approval is settled for that baseline; retain historical pending statements/mock sidecars/tool-workflow receipts without treating them as a new approval gate. This decision does not establish outcomes, production readiness, exhaustive accessibility conformance, future-design approval or demo completion.
 
 The9October signed-out shell/theme decision retains real sign-in, hides navigation/account until authenticated, reclaims the full entry width and uses localized moon/sun next-action buttons with hover/focus tooltips. Consult `docs/specs/capstone/increments/auth-shell.md` and its verification for the latest AS01–AS06 results, lifecycle cleanup and delivery status; do not reinstate the superseded text/switch theme control or infer formal design approval.
@@ -56,7 +58,7 @@ Use Africa/Lagos for user-facing dates and times. Set up recurring monitoring on
 
 ## Publish and recover
 
-Keep intended non-secret source in the private IronSyd and MikeIronSyd repositories. This existing destination and publication authorization remains in force. The local `origin` remote publishes the main branch to both accounts; `miva` also names the Miva repository for direct readback. After appropriate checks, commit intended changes, use normal `git push origin main`, and verify both remote heads against the intended commit. Preserve original unrelated Git hooks.
+Keep intended non-secret source in the private **IronSyd/littlefurther** and **MikeIronSyd/littlefurther** repositories. Existing publication authorization remains in force. `origin` fetches the personal repository and has both renamed push URLs; `miva` names the renamed Miva repository for readback. After checks, commit intended changes, use normal `git push origin main`, and verify both remote heads against the intended commit. Preserve unrelated Git hooks.
 
 The user's 7 October 2026 policy limits CodexRecovery to global instructions, skills and essential settings. Never send project files, project Git history, chat/task/conversation history, prompt drafts, databases, workspace folders, browser/app profiles, task automations or generated runtime caches to the recovery repository. Do not register projects, install recovery Git hooks, or invoke `Push-WithBackup` for project publication. Global recovery is separate from this project's publication checks.
 
