@@ -326,7 +326,7 @@
         "https://github.com/IronSyd/littlefurther",
         "https://github.com/MikeIronSyd/littlefurther"
       ],
-      "setup_status": "Both private repositories configured; IronSyd WRITE access verified. Origin publishes to both accounts; live publication evidence is maintained in activity A009.",
+      "setup_status": "13October user-selected independent histories and fresh private school repository. Origin now pushes only to the personal repository; root miva push URL is blocked. School CLI api user verified MikeIronSyd; replacement preparation/review is in progress.",
       "miva_account_email": "m.alkali5130@miva.edu.ng"
     },
     "continuity": "Maintain the whole activity history, decisions, current state, next actions, and supporting evidence across the agreed trackers.",
@@ -338,7 +338,7 @@
     "Follow the user's iterative SDLC and spec-driven development instructions for software work.",
     "Use Impeccable for UI and UX work.",
     "Under the user's 7 October 2026 policy, CodexRecovery covers only global instructions, skills and essential settings. Never send project files or Git history there; do not register projects, install recovery hooks or use Push-WithBackup for project publication.",
-    "Existing publication authorization for both configured private GitHub repositories remains in force. After appropriate checks, use normal local Git commits and pushes, preserve unrelated hooks, and verify both remote heads against the intended commit.",
+    "Publication authorization for both private repositories persists using separate owner identities, authentication and Git histories. Verify each expected head independently; identical-head and dual-push rules are superseded. Preserve hooks and follow docs/operations/repository-publication.md.",
     "Preserve unrelated work, use private repositories by default, and do not activate paid storage.",
     "Shape substantial briefs and authored prompts with Goal, Context Pointers, Constraints and Done When.",
     "Complete and document 100% of necessary research for the agreed implementation scope before production work; assumptions cannot replace missing facts.",
@@ -1314,5 +1314,17 @@
       "board": "10cards:1ToDo/5InProgress/0InReview/4Done;A010InProgressNoDate;A007ToDo"
     },
     "final_reconciliation_review": "Independent saved-snapshot comparison found no blockers:12intended Sheet values/zeroextraformat-history changes, exact Kaneo prior text/HTML suffixes and matching new wording; board counts are root-observed. Final documentation-only dual publication/head readback follows."
+  },
+  "repository_identity_separation": {
+    "date": "2026-10-13",
+    "decision": "User rejected personal attribution on school and selected a fresh private school repository; approved school CLI authorization.",
+    "specification": "docs/specs/capstone/increments/repository-identities.md",
+    "procedure": "docs/operations/repository-publication.md",
+    "original_school_repository_id": 1402126097,
+    "original_head": "87b92ab4bd5afefe3a360ac710d16c75ce097d86",
+    "status": "Preparation/review in progress; original school repository preserved; verified complete local original55commit bundle. School CLI authenticated as MikeIronSyd. No remote replacement claimed.",
+    "local_school_checkout": ".local/repository-identities/school-review",
+    "authentication": "Ignored separate school-gh profile; never expose or publish credentials.",
+    "publication_rule": "Independent expected heads and content equivalence, never equal heads or dual push."
   }
 }

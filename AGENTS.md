@@ -1,5 +1,10 @@
 # Hackathon project instructions
 
+## Repository identity separation — 13 October 2026
+
+The user explicitly requires separate account identities and selected a fresh private school repository. Follow [repository-identities](docs/specs/capstone/increments/repository-identities.md) and [publication](docs/operations/repository-publication.md). The original equal-head/dual-push workflow is superseded. The personal checkout remains personal; the school checkout must use school-only metadata, references and authenticated pushes. Preserve historical evidence as dated/adapted records, not active publication instructions.
+
+
 This is the Andela x Miva x OpenAI Codex Accelerator Hackathon workspace. The user completed briefing intake and both LMS modules, then explicitly selected Track 2: Engagement & Staying in the Learning Journey. The agreed MVP combines Comeback, TinySteps, StudyCircle, nonpunitive consistency tracking, and FinishLine in one experience for learners generally. StudyCircle includes both personal study/review cycles and private peer accountability. These decisions are settled; do not reopen learner segmentation, feature inclusion, or a required personal interruption case. P04/P05 provides the local private learning journey, P06 adds Comeback schedule recovery, and P07 implements private circles with real local accounts, deliberate sharing and lifecycle controls. P08/P09 reviews the connected journey and corrects session/view lifetimes, unsaved-state protection, route consistency and profile-write ordering. P10 independently rehearses setup and bilingual template adaptation, correcting pinned-launcher guidance and Windows checkout EOL behavior without changing product templates. The9October focused design correction implements keyboard focus, localized activity descriptions, accurate availability errors, selected-step editing and version-matched study links. Read docs/specs/capstone/spec.md, increments/design-refinement.md and its verification record for current results and remaining gates before proceeding. Product benefits remain hypotheses, not validated outcomes. The earlier Guidance concept is archived. BSc AI enrollment is user-reported and distinct from verified accelerator completion.
 
 ## Resume with context
@@ -60,7 +65,7 @@ Use Africa/Lagos for user-facing dates and times. Set up recurring monitoring on
 
 ## Publish and recover
 
-Keep intended non-secret source in the private **IronSyd/littlefurther** and **MikeIronSyd/littlefurther** repositories. Existing publication authorization remains in force. `origin` fetches the personal repository and has both renamed push URLs; `miva` names the renamed Miva repository for readback. After checks, commit intended changes, use normal `git push origin main`, and verify both remote heads against the intended commit. Preserve unrelated Git hooks.
+Keep intended non-secret source in the two authorized private repositories using separate Git histories, owner identities, authentication and checkouts. The main development checkout publishes only to its personal origin. Its miva remote is read-only with a blocked push URL; school publication uses the isolated school checkout and school owner authentication. Verify each expected head independently; matching heads and dual-pushing the same commit are superseded. Follow docs/operations/repository-publication.md and preserve unrelated hooks.
 
 The user's 7 October 2026 policy limits CodexRecovery to global instructions, skills and essential settings. Never send project files, project Git history, chat/task/conversation history, prompt drafts, databases, workspace folders, browser/app profiles, task automations or generated runtime caches to the recovery repository. Do not register projects, install recovery Git hooks, or invoke `Push-WithBackup` for project publication. Global recovery is separate from this project's publication checks.
 
