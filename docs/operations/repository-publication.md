@@ -24,3 +24,9 @@ An independent clone of either repository can develop normally using its own own
 ## Done When
 
 Each published main resolves to its independently expected SHA and owner identity; school historical content and contributors contain no other-account identity; application source remains equivalent. Record actual saved tracker and remote results without claiming identical hashes or new application tests.
+
+## Local-only recording material
+
+On 14 October the user requested that video scripts, storyboards and video-rehearsal documents/assets stay on this PC and outside the repositories. Existing local copies are ignored; keep future recording preparation in ignored local storage. Publish application source, regression tests and ordinary product/developer documentation through the established procedure. Do not re-add or rename the excluded packet into another published folder.
+
+The cleanup removes the packet from current repository files with normal commits. Published ancestry is preserved; earlier commits retain historical copies. Current-tree removal is not a history purge. Source behavior and learner data remain unchanged. Scoped documentation/link checks, local-copy hashes, unchanged source bytes, independent review, owner-authenticated remote readback and saved tracker comparisons are the applicable checks; no new full application-suite result follows from this documentation change.
