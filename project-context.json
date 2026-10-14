@@ -887,7 +887,7 @@
       }
     ],
     "latest_increment": "repository-content-policy",
-    "latest_status": "Local copies preserved; current-tree removal and link/policy edits prepared. Verification, publication and tracker readbacks pending."
+    "latest_status": "Current-tree cleanup verified: 34 recording-preparation files excluded, local copies and 86 owner snapshots preserved, all 64 protected application/test/config files unchanged, scoped documentation checks and independent review passed. Initial private publication/readbacks and E035 saved tracker comparisons are complete. Earlier commits retain historical copies; no history purge or new application test is claimed."
   },
   "research_gate": {
     "status": "Closed for R37 current-status reconciliation including user-requested standalone school documentation (SR01–SR06).",
@@ -954,7 +954,7 @@
     "id": "repository-content-policy",
     "name": "Keep recording preparation local",
     "date": "2026-10-14",
-    "status": "Local copies preserved; current-tree removal and link/policy edits prepared. Verification, publication and tracker readbacks pending.",
+    "status": "Current-tree cleanup verified: 34 recording-preparation files excluded, local copies and 86 owner snapshots preserved, all 64 protected application/test/config files unchanged, scoped documentation checks and independent review passed. Initial private publication/readbacks and E035 saved tracker comparisons are complete. Earlier commits retain historical copies; no history purge or new application test is claimed.",
     "specification": "docs/operations/repository-publication.md#local-only-recording-material",
     "verification": "docs/operations/repository-publication.md#local-only-recording-material",
     "baseline": "6ae281f8da83a4ccb052618d51f3acea885dc80f",
@@ -964,8 +964,8 @@
       "record": "docs/specs/capstone/design.md#overall-design-approval--12-october-2026",
       "boundary": "Historical pipeline sessions/URLs are not active approval gates or newly completed tool receipts."
     },
-    "tracker_sync": "E035 reconciliation pending.",
-    "next": "Verify the publication cleanup; continue video preparation locally.",
+    "tracker_sync": "E035 saved through browser MCP: exactly 11 Sheet values; no unexpected/style/formula/structure changes; unique E035 and complete 43904-character prior Context suffix (final 45010). Kaneo final 185352 text/219196 HTML retains complete prior 182523 text/215971 HTML; Saved/reload/title/status/date/board unchanged.",
+    "next": "Continue recording preparation locally; keep excluded materials outside Git.",
     "welcome_copy": {
       "date": "2026-10-09",
       "specification": "docs/specs/capstone/increments/welcome-copy.md",
@@ -1553,6 +1553,8 @@
     "record": "docs/operations/repository-publication.md#local-only-recording-material",
     "recording_material": "Video scripts, storyboards and video-rehearsal documents/assets stay local and excluded from Git.",
     "history": "Normal current-tree removal preserves published ancestry; historical commits retain earlier copies.",
-    "status": "Local copies preserved; current-tree removal and link/policy edits prepared. Verification, publication and tracker readbacks pending."
+    "status": "Current-tree cleanup verified: 34 recording-preparation files excluded, local copies and 86 owner snapshots preserved, all 64 protected application/test/config files unchanged, scoped documentation checks and independent review passed. Initial private publication/readbacks and E035 saved tracker comparisons are complete. Earlier commits retain historical copies; no history purge or new application test is claimed.",
+    "tracker_sync": "E035 saved through browser MCP: exactly 11 Sheet values; no unexpected/style/formula/structure changes; unique E035 and complete 43904-character prior Context suffix (final 45010). Kaneo final 185352 text/219196 HTML retains complete prior 182523 text/215971 HTML; Saved/reload/title/status/date/board unchanged.",
+    "source_artifact": "c8b4746788da5550f5d1dee6033bfdfcdf8c9171"
   }
 }
