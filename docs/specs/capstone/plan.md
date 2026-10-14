@@ -1,5 +1,7 @@
 # Capstone delivery plan
 
+14 October interface feedback: obsolete save feedback and singular removal wording were addressed. Eight fresh native-dialog browser cases passed within the recorded scope. Other checks and delivery retain their separately recorded status.
+
 Latest saved result — 14 October: Docker technical verification, independent review and [E031/D019 tracker readbacks](reviews/2026-10-14-docker-trackers.md) are complete. Reviewed implementation is published and read back; documentary closeout uses the same authorized normal procedure and verifies its intended source reference. The next product deliverable remains the timed demo/submission, with learner validation and later human AI-surface review distinct.
 
 Current increment — 14 October: [Docker clone-and-run](increments/docker.md) is implemented and DK01–DK07 verified: clean LinuxAMD64/emulatedARM64, synthetic persistence/restore/AI wiring, five container browser checks and required85domain/server+94browser/static/build/process/audit pass. Independent preflight follow-up resolves the Desktop missing-file limitation through the documented conditional procedure. Tracker/readback and owner-specific delivery are recorded separately in [Docker verification](increments/docker-verification.md). This is a local runtime option, not hosting or a product-feature change. Earlier summaries remain dated history.
