@@ -886,8 +886,8 @@
         ]
       }
     ],
-    "latest_increment": "status-reconciliation",
-    "latest_status": "SR01–SR06 documentation reconciliation completed within scope: current summaries corrected, standalone school documentation reviewed, initial artifacts published/verified and E030 saved/read back. Final documentary closeout uses normal owner-specific publication and delivery readbacks; no source behavior change."
+    "latest_increment": "docker",
+    "latest_status": "DK01–DK07verified: cleanLinuxAMD64/emulatedARM64, synthetic lifecycle/restore/mockAI,5containerbrowser and required85domain/server+94browser/static/build/process/audit pass; independentreview+preflightfollowup no scopedblocker. Tracker/sourcepublicationreadbacks pending."
   },
   "research_gate": {
     "status": "Closed for R37 current-status reconciliation including user-requested standalone school documentation (SR01–SR06).",
@@ -951,12 +951,12 @@
       "verification": "32 isolated synthetic header combinations passed (1440/320, light/dark, EN/FR,100/200% root text, signed-in/out layout); SVG/sizes/no-overflow/exact-name/no-external checks pass. Contrast15.28/13.2/8.71/21/6.19. Independent skill review no artwork blocker; malformed viewer URL and README wording findings corrected/confirmed. Native syntax, same-rules isolated Biome and GET/HEAD/400/404/405 viewer checks pass. Detector no findings; both PNG provenance records present. BrowserMCP frame measurements/capture inspected. No production source/app behavior changed or tested; human recognition, artwork selection, formal approval and trademark clearance unverified.",
       "delivery": "Artifact 5fe7f18022537e04eb6b1dbd8b4f14a87fbda3d1 published normally; both private main heads verified exact at22:47:42 Africa/Lagos and privacy flags true. Both installed GitHub CLI commit metadata/16 paths passed at22:48:54; GitHub MCP absent/uninstalled in resumed tools, no CI claimed. E018/A010 saved at22:51:52: correct private Miva owner; all5Sheet tabs compared, exactly10changes A19:J19, zero mismatch/extra, unique E018. Kaneo78375characters equals5035new block plus entire exact73340prior history, with title/status/date/ten-task board/A007 unchanged. One successful mutation each; explicit no-input Sheet prep timeout resolved before paste, no ambiguous-write retry. See brand contract and .local/littlefurther-tracker-final-receipt.json. LF01-LF05 complete within reference scope; artwork selection/app integration/formal approval remain separate. Documentation closeout publication follows."
     },
-    "id": "status-reconciliation",
-    "name": "Reconcile current repository status and evidence",
+    "id": "docker",
+    "name": "Docker clone-and-run",
     "date": "2026-10-14",
-    "status": "SR01–SR06 documentation reconciliation completed within scope: current summaries corrected, standalone school documentation reviewed, initial artifacts published/verified and E030 saved/read back. Final documentary closeout uses normal owner-specific publication and delivery readbacks; no source behavior change.",
-    "specification": "docs/specs/capstone/increments/status-reconciliation.md",
-    "verification": "docs/specs/capstone/increments/status-reconciliation.md",
+    "status": "DK01–DK07verified: cleanLinuxAMD64/emulatedARM64, synthetic lifecycle/restore/mockAI,5containerbrowser and required85domain/server+94browser/static/build/process/audit pass; independentreview+preflightfollowup no scopedblocker. Tracker/sourcepublicationreadbacks pending.",
+    "specification": "docs/specs/capstone/increments/docker.md",
+    "verification": "docs/specs/capstone/increments/docker-verification.md",
     "baseline": "5afca01adb65dcfb571ca4d4b431611a83cac2df",
     "formal_review": {
       "status": "D016 baseline approved; later AI-surface human review remains separate.",
@@ -965,7 +965,7 @@
       "boundary": "Historical pipeline sessions/URLs are not active approval gates or newly completed tool receipts."
     },
     "tracker_sync": "E030 saved14October: exactly11Sheetvalues via nativeGoogleDriveMCP; exact native readback+full5tabbrowserexport comparison0mismatches/priorstyle-formulachanges/structurechanges, uniqueE030 and entire25492priorContext suffix retained(final27767). Kaneo browserMCP oneexact3125prefix, final159576text188489HTML with entire156451text184879HTMLsuffixes; Savedreload/title/IP/NoDate/board/A007retained. See2026-10-14-status-reconciliation-trackers.md.",
-    "next": "Prepare and rehearse the timed3–5minute demo/evidence index and final submission/reflection; laterAIhumanreview/learneroutcomes remain separate. No automatic outreach or submission.",
+    "next": "Complete Docker verification, review, saved evidence and owner-specific publication; timed demo/submission remain separate.",
     "welcome_copy": {
       "date": "2026-10-09",
       "specification": "docs/specs/capstone/increments/welcome-copy.md",
@@ -1025,7 +1025,7 @@
       "artifact_commit": "6fc148a71d93ddd29f886035113e772670892e25",
       "tracker_review": "docs/specs/capstone/reviews/2026-10-11-control-readability-tracker.md"
     },
-    "latest_increment": "status_reconciliation",
+    "latest_increment": "docker",
     "ui_specialist_review": {
       "date": "2026-10-11",
       "baseline": "68844d6d1b72e04f80258b55904d3d3b44101c97",
@@ -1506,5 +1506,27 @@
     "tracker_record": "docs/specs/capstone/reviews/2026-10-14-status-reconciliation-trackers.md",
     "artifact_personal": "2587a5ce26ec4fa8c2cac1bfc43692b65d481467",
     "artifact_school": "593df0f0cf5274703c6bfc5c311cd2157c21eab8"
+  },
+  "docker": {
+    "date": "2026-10-14",
+    "specification": "docs/specs/capstone/increments/docker.md",
+    "verification": "docs/specs/capstone/increments/docker-verification.md",
+    "operations": "docs/operations/docker.md",
+    "research": "R38 closed14October14:31Africa/Lagos before production edits; isolated LinuxAMD64 and emulatedARM64 install/build/SQLite/auth/nonroot-volume feasibility.",
+    "distribution": "Clone and local image build; no project-image registry publication, hosting or CI.",
+    "data": "Fresh complete SQLite/auth named volume; ordinary PC data untouched; stopped backup/empty-volume restoration.",
+    "credentials": "Basekeyless; optional read-only ignored runtime credential mount. Synthetic validation only; no live sponsored requests.",
+    "platforms": "LinuxAMD64 actual engine; LinuxARM64 through DockerDesktop emulation. No nativeARM/all-host claim.",
+    "status": "DK01–DK07verified: cleanLinuxAMD64/emulatedARM64, synthetic lifecycle/restore/mockAI,5containerbrowser and required85domain/server+94browser/static/build/process/audit pass; independentreview+preflightfollowup no scopedblocker. Tracker/sourcepublicationreadbacks pending.",
+    "previous_active": {
+      "id": "status-reconciliation",
+      "name": "Reconcile current repository status and evidence",
+      "status": "SR01–SR06 documentation reconciliation completed within scope: current summaries corrected, standalone school documentation reviewed, initial artifacts published/verified and E030 saved/read back. Final documentary closeout uses normal owner-specific publication and delivery readbacks; no source behavior change.",
+      "latest_increment": "status-reconciliation",
+      "latest_status": "SR01–SR06 documentation reconciliation completed within scope: current summaries corrected, standalone school documentation reviewed, initial artifacts published/verified and E030 saved/read back. Final documentary closeout uses normal owner-specific publication and delivery readbacks; no source behavior change."
+    },
+    "review": "docs/specs/capstone/reviews/2026-10-14-docker-review.md",
+    "tracker_record": "docs/specs/capstone/reviews/2026-10-14-docker-trackers.md",
+    "checks": "14October15:01Africa/Lagos requiredverifyexit0;85domain/server,94browser(15.5m),static/build/process/audit(no known vulnerabilities);shipping5browser56.56s;10layers11865entries/ninecanariesexcluded;Desktopmissing-sourceflagqualified,6hostpreflightfixturespass."
   }
 }
