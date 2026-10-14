@@ -1341,7 +1341,7 @@
     "documentary_closeout_on": "2026-10-14",
     "tracker_review": "docs/specs/capstone/reviews/2026-10-13-repository-identity-trackers.md",
     "final_documentation_checks": "8identitydocs/87relative links pass; presentationvalidator13docs/125rootlinks/703words/eightPNGhashes/twoSVGs pass. No appfullsuite/liveAIrerun.",
-    "school_presentation": "14 October user steering: current school documentation must present standalone LittleFurther, without multi-account/independent-version operations. Preserve already published school history and product/test evidence; keep operator mapping records in this personal workspace. SR06 adaptation/check/publication pending."
+    "school_presentation": "14 October user steering applied: current school documentation presents standalone LittleFurther without multi-account/independent-version operations. The published school history and product/test evidence are preserved; operator mapping records remain in this personal workspace. SR06 adaptation/review/checks and normal artifact593df0f publication/readback are complete; final documentary closeout uses its separate delivery receipt."
   },
   "status_summary_history": [
     {
@@ -1497,7 +1497,7 @@
     "verification_boundary": "Documentation checks only; no new full application suite or live AI request.",
     "checks": "14 October: scoped JSON/history/link/status check6Markdown records206links33exact archived fields/zeroissues; presentation13docs125links8PNGhashes2SVGchecks; whitespace0; independent six-document review no blocker. No new application suite or live AI.",
     "review": "docs/specs/capstone/reviews/2026-10-14-status-reconciliation-review.md",
-    "school_documentation_scope": "14 October user steering: current school documentation must present standalone LittleFurther, without multi-account/independent-version operations. Preserve already published school history and product/test evidence; keep operator mapping records in this personal workspace. SR06 adaptation/check/publication pending.",
+    "school_documentation_scope": "14 October user steering applied: current school documentation presents standalone LittleFurther without multi-account/independent-version operations. The published school history and product/test evidence are preserved; operator mapping records remain in this personal workspace. SR06 adaptation/review/checks and normal artifact593df0f publication/readback are complete; final documentary closeout uses its separate delivery receipt.",
     "initial_research_closed_at": "2026-10-14T10:07:18.928+01:00",
     "standalone_research": "Root and independent current-tree inventory completed before school adapter implementation. Preserve product/privacy distinctions and published history; remove current multi-account operator material, repair links and recheck factual dated evidence.",
     "school_documentation_checks": "Current standalone documentation and Git artifact independently checked:130Markdownfiles873links0issues, ninecorecontextfactgroups retained;79protectedproductfiles unchanged. Normal publication at593df0f verified. SavedE030 uses11Sheetvalues and preserves fullSheet/Kaneohistory; no new application test.",
