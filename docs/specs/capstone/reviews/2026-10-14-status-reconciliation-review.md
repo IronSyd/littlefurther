@@ -27,3 +27,23 @@ The later specification-lead corrections are factual status changes only: the ca
 ## Done When
 
 The reviewed local corrections have no scoped blocker. Root must still verify saved tracker results, inspect the separate school projection and publish/read back each independently expected owner head before claiming delivery complete. The actual school projection and tracker checks will be recorded after they are available. This review neither establishes learner effectiveness nor changes human design approval.
+
+### SR06 follow-up — standalone school documentation
+
+The user's later instruction requires the current school documentation to present LittleFurther without the multi-repository operational narrative. The independent review first found two blocking adapter issues: a broad destination replacement changed references to the Google Sheet and Kaneo into repository references, and some old push/private-readback statements still implied operations on the fresh school repository at earlier dates. The adapter was corrected before candidate generation. Focused follow-up confirmed the cited tracker counts, prior-text/HTML suffix figures and both-tracker meanings remained; historical source references replaced retrospective publication claims. Five narrow operational or malformed command remnants were also corrected. These were documentation findings, not product defects.
+
+The final prepared candidate reviewed is school `593df0f0cf5274703c6bfc5c311cd2157c21eab8`, corresponding to root source `2587a5ce26ec4fa8c2cac1bfc43692b65d481467`. Actual read-only checks were:
+
+- `git merge-base --is-ancestor` confirms previously published school `7756fdf109e99cbe12e7f2178b552f0cf5a8543f` is retained as an ancestor. The prepared school worktree is clean.
+- `git log` author/committer inspection passes all 60 commit headers using the school noreply identity. A `git cat-file --batch` audit passes 756 distinct historical UTF-8 blobs for personal-account name/ID absence and validates 326 school commit-URL targets. This history audit checks identity and source links; the new standalone-content requirement was assessed against current documents, not retroactively against old commits.
+- `git ls-tree` comparison passes 79 protected application, test, tool, dependency/configuration and PNG/SVG paths byte-for-byte against the root source. No product change is introduced.
+- JSON comparison retains nine exact core fact groups: brief/operating constraints, judging criteria, participation/capacity, LMS progress, official and internal deadline distinction, handover intake, D016 and settled scope decisions.
+- All 130 current Markdown files pass 873 relative path/anchor checks. The three dedicated migration records are absent from the current school tree and no current link targets them. A targeted current-document scan finds no multi-repository operational narrative; its sole broad identity match describes legitimate application identity adapters.
+
+SR06 and the prepared school candidate have no scoped blocker. School publication and final saved tracker/remote readbacks remain root delivery responsibilities and are not passed by this preparation review. No running application, application tests, live provider request, external write, credential read or Git mutation was performed by this reviewer.
+
+### Final standalone documentation checks
+
+The reviewed documentation artifact has60commit headers with the authorized author/committer identity,130currentMarkdownfiles/873valid relative links and anchors, nineexact core context fact groups and79unchanged protected product/config/artwork files. The prepared candidate passed independent review before normal publication; actual artifact publication and readback subsequently passed. This documents the reviewed artifact rather than inventing a new application run or old publication dates.
+
+Root's subsequent E030 readback confirms exactly11intended Sheet values, zero full-export mismatches or prior-cell style/formula/structure changes, uniqueE030 and the entire previous Context suffix. Kaneo's exact new prefix and complete prior text/HTML suffixes pass Saved/reload readback. The [tracker record](2026-10-14-status-reconciliation-trackers.md#saved-activity-tracker-results) gives actual routes, counts and qualified attempts. These later saved results are root-observed; this independent reviewer did not perform the external writes. Documentary closeout retains normal private publication and final exact readback requirements. No learner outcome, future human approval, application-suite, live-provider, video or submission result is inferred.
