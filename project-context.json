@@ -887,11 +887,11 @@
       }
     ],
     "latest_increment": "status-reconciliation",
-    "latest_status": "Active summaries corrected and local documentation/independent review passed. Initial artifact publication, E030 saved tracker reconciliation and documentary closeout remain pending actual readbacks."
+    "latest_status": "SR01–SR05 local documentation corrections/review/checks passed; personal correction artifact 9006cc9c is published. User requested standalone school documentation before school delivery; SR06 research inventory satisfied, adaptation and delivery checks pending."
   },
   "research_gate": {
-    "status": "Closed for the 14 October current-status documentation reconciliation (SR01–SR05); prior scope-specific gates retain their dated evidence.",
-    "closed_at": "2026-10-14T10:07:18.928+01:00",
+    "status": "Closed for R37 current-status reconciliation including user-requested standalone school documentation (SR01–SR06).",
+    "closed_at": "2026-10-14T12:58:40.546+01:00",
     "checklist": "docs/specs/capstone/research.md",
     "evidence": "docs/specs/capstone/increments/status-reconciliation.md: source/document audit, actual owner-scoped remote readbacks, D016, prior AI checks and E029/D018 saved evidence satisfy every research need before dependent summary edits. Delivery checks remain distinct.",
     "boundary": "Research completeness does not imply verification, formal design approval, educational outcomes or delivery.",
@@ -954,7 +954,7 @@
     "id": "status-reconciliation",
     "name": "Reconcile current repository status and evidence",
     "date": "2026-10-14",
-    "status": "Active summaries corrected and local documentation/independent review passed. Initial artifact publication, E030 saved tracker reconciliation and documentary closeout remain pending actual readbacks.",
+    "status": "SR01–SR05 local documentation corrections/review/checks passed; personal correction artifact 9006cc9c is published. User requested standalone school documentation before school delivery; SR06 research inventory satisfied, adaptation and delivery checks pending.",
     "specification": "docs/specs/capstone/increments/status-reconciliation.md",
     "verification": "docs/specs/capstone/increments/status-reconciliation.md",
     "baseline": "5afca01adb65dcfb571ca4d4b431611a83cac2df",
@@ -1340,7 +1340,8 @@
     "final_replacement_authorization": "Directuserconfirmation13October2026",
     "documentary_closeout_on": "2026-10-14",
     "tracker_review": "docs/specs/capstone/reviews/2026-10-13-repository-identity-trackers.md",
-    "final_documentation_checks": "8identitydocs/87relative links pass; presentationvalidator13docs/125rootlinks/703words/eightPNGhashes/twoSVGs pass. No appfullsuite/liveAIrerun."
+    "final_documentation_checks": "8identitydocs/87relative links pass; presentationvalidator13docs/125rootlinks/703words/eightPNGhashes/twoSVGs pass. No appfullsuite/liveAIrerun.",
+    "school_presentation": "14 October user steering: current school documentation must present standalone LittleFurther, without multi-account/independent-version operations. Preserve already published school history and product/test evidence; keep operator mapping records in this personal workspace. SR06 adaptation/check/publication pending."
   },
   "status_summary_history": [
     {
@@ -1495,6 +1496,11 @@
     "product_change": false,
     "verification_boundary": "Documentation checks only; no new full application suite or live AI request.",
     "checks": "14 October: scoped JSON/history/link/status check6Markdown records206links33exact archived fields/zeroissues; presentation13docs125links8PNGhashes2SVGchecks; whitespace0; independent six-document review no blocker. No new application suite or live AI.",
-    "review": "docs/specs/capstone/reviews/2026-10-14-status-reconciliation-review.md"
+    "review": "docs/specs/capstone/reviews/2026-10-14-status-reconciliation-review.md",
+    "school_documentation_scope": "14 October user steering: current school documentation must present standalone LittleFurther, without multi-account/independent-version operations. Preserve already published school history and product/test evidence; keep operator mapping records in this personal workspace. SR06 adaptation/check/publication pending.",
+    "initial_research_closed_at": "2026-10-14T10:07:18.928+01:00",
+    "standalone_research": "Root and independent current-tree inventory completed before school adapter implementation. Preserve product/privacy distinctions and published history; remove current multi-account operator material, repair links and recheck factual dated evidence.",
+    "school_documentation_checks": "Documentation preview syntax and873relative links/anchors pass with zero issues; product requirements, privacy semantics and dated application evidence retained. This is documentation-only verification, not a new application test run.",
+    "standalone_operator_checks": "85adapted current-tree docs/context,3migration-operation records omitted; original operator history retained personally; activation at unpublished reconciliation preserves published58commit school prefix. Independent review corrections applied before release; final Git/readback checks follow."
   }
 }
