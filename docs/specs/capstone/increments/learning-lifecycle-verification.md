@@ -2,7 +2,7 @@
 
 ## Goal
 
-Verify LC01–LC07 against the local uncommitted combined lifecycle/planning-calendar changes. No commit, publication or tracker approval follows from a check.
+Verify LC01–LC07 against the combined lifecycle/planning-calendar changes. Required checks, independent review and the separately user-approved source/tracker delivery are complete within the recorded scope.
 
 ## Context Pointers
 
@@ -26,7 +26,7 @@ Verify LC01–LC07 against the local uncommitted combined lifecycle/planning-cal
 | Actual browser MCP | Isolated account creation, timezone, manual plan save, archive/list/read-only view, EN→FR, deletion preview/cancel and restoration observed through visible UI | `http://localhost:4335`; no ordinary learner-data change, no permanent deletion through MCP |
 | Actual visual review | Six final captures, desktop/320px, EN/FR, both themes and200% root text; all measured visible buttons≥44×44, no measured horizontal overflow; cancellation focus and unchecked destructive/restoration choices verified | One French320 forced-colours/reduced-motion restoration state; not exhaustive accessibility conformance |
 | Independent review | Initial localized-date issue fixed and independently closed. Bounded follow-up found no blocking privacy/retry/ownership/lifecycle regression; nine capture source hashes match | Complete pipeline receipt now passes; reviewer’s source follow-up ran no additional tests |
-| Shared destinations | Pending explicit approval | No commit/push/Sheet/Kaneo write authorized or performed |
+| Shared destinations | Michael approved the exact batch15October; separate owner feature pushes and E036 Sheet/Kaneo saved comparisons passed | [Publication record](../reviews/2026-10-15-learning-lifecycle-publication.md); personal private, school public; no visibility change |
 
 ## Acceptance evidence
 
@@ -56,8 +56,8 @@ Final scoped documentation validation passed: 16 Markdown records, 259 relative 
 
 ## Delivery state
 
-Local implementation and documentation are prepared. The tracker content remains a local draft pending live identity/schema readback and Michael's approval of exact fields/content. No new stable evidence ID is allocated without checking the current tracker. No commit or push is approved or performed. Personal and school destinations retain their separate owner identities, histories and documentation safeguards.
+Michael explicitly approved the reviewed83-path personal/87-path school feature batch,11Sheet values, Kaneo A010 prefix and bounded four-path closeout on15October2026. Feature artifacts [personal eb7fa1a](https://github.com/IronSyd/littlefurther/commit/eb7fa1a5e16577920dedd65db9ef63edcd27a083) and [school ada0bd1](https://github.com/MikeIronSyd/littlefurther/commit/ada0bd1aa1f017b8de2112396046bab50aaecbf2) were normally pushed and exact main heads/owner identities verified. Personal remains private; school remains public as requested. E036 is unique and saved through browser/computer-use MCP in both trackers. Complete prior Sheet/Kaneo text histories and tracker metadata were preserved; see the [publication record](../reviews/2026-10-15-learning-lifecycle-publication.md) for actual comparisons and capture limits. The pre-existing personal AGENTS.md edit and local-only recording material remain outside this batch.
 
 ## Done When
 
-Local implementation, required verification and independent review are complete within the recorded scope. Keep local/shared delivery states separate. No secure erasure, provider recall, learning outcome, production readiness or new Docker-platform verification is claimed.
+Implementation, required verification, independent review, approved feature publication and saved tracker readbacks are complete within the recorded scope. The four-path documentary closeout changes no product source. No secure erasure, provider recall, learning outcome, production readiness or new Docker-platform verification is claimed.
