@@ -2,7 +2,9 @@
 
 ## Goal
 
-Keep the private project copies separate in Git authorship, documentation and authenticated publishing while delivering equivalent application source.
+Keep the project copies separate in Git authorship, documentation and authenticated publishing while delivering equivalent application source.
+
+Current visibility decision — 15 October 2026: Michael explicitly requested that `MikeIronSyd/littlefurther` remain public for now. `IronSyd/littlefurther` remains private. This supersedes the earlier both-private requirement for current delivery; retain dated private-repository results as history. The current replacement repository IDs are IronSyd1419648862 and MikeIronSyd1419658733. Owner identity, separate histories, standalone school documentation, secret exclusions and explicit commit/shared-write approval remain required.
 
 ## Context Pointers
 

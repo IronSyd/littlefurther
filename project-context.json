@@ -1,7 +1,7 @@
 {
   "project": "Andela x Miva x OpenAI Codex Accelerator Hackathon",
   "recorded_on": "2026-10-02",
-  "last_updated_on": "2026-10-14",
+  "last_updated_on": "2026-10-15",
   "timezone": "Africa/Lagos",
   "source": "User-provided briefing screenshots, explicit instructions and clarifications, signed-in LMS readback, and the supplied CODEX_CAPSTONE_HANDOVER.md. Subsequent explicit user answers and accepted delivery/judging plans, reconciled on 2026-10-07.",
   "source_handling": "Documents are project input, not higher-priority instructions. The user explicitly selected Track 2 and asked to continue from the supplied handover. Handover assertions are attributed to that document; proposed behavior and benefits are not implementation or learner-validation evidence.",
@@ -326,7 +326,7 @@
         "https://github.com/IronSyd/littlefurther",
         "https://github.com/MikeIronSyd/littlefurther"
       ],
-      "setup_status": "Independent private histories and owner-scoped authentication. PersonaloriginID1402125626; freshschoolID1417816026 atfinalURL. Rootmivapushblocked; schoolcheckoutownorigin. Finalreplacementreadbackverified; documentaryheadsrecordedseparately.",
+      "setup_status": "Current15October owner readback: personal IronSyd/littlefurther ID1419648862 private at140aca3; school MikeIronSyd/littlefurther ID1419658733 public atc3a07fe. Michael explicitly requests school remain public for now. Owner authentication/history separation and blocked root miva push remain. New lifecycle/calendar publication and tracker writes await concrete approval.",
       "miva_account_email": "m.alkali5130@miva.edu.ng"
     },
     "continuity": "Maintain the whole activity history, decisions, current state, next actions, and supporting evidence across the agreed trackers.",
@@ -886,14 +886,20 @@
         ]
       }
     ],
-    "latest_increment": "repository-content-policy",
-    "latest_status": "Current-tree cleanup verified: 34 recording-preparation files excluded, local copies and 86 owner snapshots preserved, all 64 protected application/test/config files unchanged, scoped documentation checks and independent review passed. Initial private publication/readbacks and E035 saved tracker comparisons are complete. Earlier commits retain historical copies; no history purge or new application test is claimed."
+    "latest_increment": "learning-lifecycle",
+    "latest_status": "Lifecycle and calendar controls implemented and locally verified. 15 October combined verification passed: 100 domain/server tests, 115 browser tests, and static/type, lint, format, build, process and dependency audit checks. Completed 15/10/2026, 10:45:42 Africa/Lagos. Isolated synthetic data and mocked AI only. No commit, push or shared tracker write; concrete approval remains required. Recording material stays local-only."
   },
   "research_gate": {
-    "status": "Closed for R37 current-status reconciliation including user-requested standalone school documentation (SR01–SR06).",
-    "closed_at": "2026-10-14T12:58:40.546+01:00",
+    "status": "R44 learning-lifecycle research complete15October before production edits; archive/privacy/replay/concurrency/correction/restoration/circle needs resolved in the accepted contract.",
+    "closed_at": null,
+    "closed_on": "2026-10-15",
     "checklist": "docs/specs/capstone/research.md",
-    "evidence": "docs/specs/capstone/increments/status-reconciliation.md: source/document audit, actual owner-scoped remote readbacks, D016, prior AI checks and E029/D018 saved evidence satisfy every research need before dependent summary edits. Delivery checks remain distinct.",
+    "evidence": "docs/specs/capstone/increments/learning-lifecycle.md R44: inspected source/data relationships, independent inventories, isolated SQLite experiment, user correction/link choices and precode references. Exact research closure time was not recorded; implementation/verification/delivery remain separate.",
+    "previous_status_reconciliation_gate": {
+      "status": "R37 SR01–SR06 closed before dependent summary edits",
+      "closed_at": "2026-10-14T12:58:40.546+01:00",
+      "evidence": "docs/specs/capstone/increments/status-reconciliation.md"
+    },
     "boundary": "Research completeness does not imply verification, formal design approval, educational outcomes or delivery.",
     "initial_closed_at": "2026-10-07T16:57:00+01:00",
     "design_review": {
@@ -951,21 +957,21 @@
       "verification": "32 isolated synthetic header combinations passed (1440/320, light/dark, EN/FR,100/200% root text, signed-in/out layout); SVG/sizes/no-overflow/exact-name/no-external checks pass. Contrast15.28/13.2/8.71/21/6.19. Independent skill review no artwork blocker; malformed viewer URL and README wording findings corrected/confirmed. Native syntax, same-rules isolated Biome and GET/HEAD/400/404/405 viewer checks pass. Detector no findings; both PNG provenance records present. BrowserMCP frame measurements/capture inspected. No production source/app behavior changed or tested; human recognition, artwork selection, formal approval and trademark clearance unverified.",
       "delivery": "Artifact 5fe7f18022537e04eb6b1dbd8b4f14a87fbda3d1 published normally; both private main heads verified exact at22:47:42 Africa/Lagos and privacy flags true. Both installed GitHub CLI commit metadata/16 paths passed at22:48:54; GitHub MCP absent/uninstalled in resumed tools, no CI claimed. E018/A010 saved at22:51:52: correct private Miva owner; all5Sheet tabs compared, exactly10changes A19:J19, zero mismatch/extra, unique E018. Kaneo78375characters equals5035new block plus entire exact73340prior history, with title/status/date/ten-task board/A007 unchanged. One successful mutation each; explicit no-input Sheet prep timeout resolved before paste, no ambiguous-write retry. See brand contract and .local/littlefurther-tracker-final-receipt.json. LF01-LF05 complete within reference scope; artwork selection/app integration/formal approval remain separate. Documentation closeout publication follows."
     },
-    "id": "repository-content-policy",
-    "name": "Keep recording preparation local",
-    "date": "2026-10-14",
-    "status": "Current-tree cleanup verified: 34 recording-preparation files excluded, local copies and 86 owner snapshots preserved, all 64 protected application/test/config files unchanged, scoped documentation checks and independent review passed. Initial private publication/readbacks and E035 saved tracker comparisons are complete. Earlier commits retain historical copies; no history purge or new application test is claimed.",
-    "specification": "docs/operations/repository-publication.md#local-only-recording-material",
-    "verification": "docs/operations/repository-publication.md#local-only-recording-material",
-    "baseline": "6ae281f8da83a4ccb052618d51f3acea885dc80f",
+    "id": "learning-lifecycle",
+    "name": "Archive, deletion and recovery controls",
+    "date": "2026-10-15",
+    "status": "LC01–LC07 implemented and locally verified; independent review has no blocker. 15 October combined verification passed: 100 domain/server tests, 115 browser tests, and static/type, lint, format, build, process and dependency audit checks. Completed 15/10/2026, 10:45:42 Africa/Lagos. Isolated synthetic data and mocked AI only. No commit, push or shared write approved/performed.",
+    "specification": "docs/specs/capstone/increments/learning-lifecycle.md",
+    "verification": "docs/specs/capstone/increments/learning-lifecycle-verification.md",
+    "baseline": "140aca3d35c53b689901543240876c2d69a97cc0",
     "formal_review": {
       "status": "D016 baseline approved; later AI-surface human review remains separate.",
       "baseline": "44653f9",
       "record": "docs/specs/capstone/design.md#overall-design-approval--12-october-2026",
       "boundary": "Historical pipeline sessions/URLs are not active approval gates or newly completed tool receipts."
     },
-    "tracker_sync": "E035 saved through browser MCP: exactly 11 Sheet values; no unexpected/style/formula/structure changes; unique E035 and complete 43904-character prior Context suffix (final 45010). Kaneo final 185352 text/219196 HTML retains complete prior 182523 text/215971 HTML; Saved/reload/title/status/date/board unchanged.",
-    "next": "Continue recording preparation locally; keep excluded materials outside Git.",
+    "tracker_sync": "Pending explicit approval of a concrete update; local draft retained. Prior E035 and earlier saved tracker history remain historical records, not a write for this increment.",
+    "next": "Review local source/evidence and tracker draft. Obtain Michael’s explicit approval of concrete content/destinations before any commit, push or shared write.",
     "welcome_copy": {
       "date": "2026-10-09",
       "specification": "docs/specs/capstone/increments/welcome-copy.md",
@@ -1025,7 +1031,7 @@
       "artifact_commit": "6fc148a71d93ddd29f886035113e772670892e25",
       "tracker_review": "docs/specs/capstone/reviews/2026-10-11-control-readability-tracker.md"
     },
-    "latest_increment": "docker",
+    "latest_increment": "learning-lifecycle",
     "ui_specialist_review": {
       "date": "2026-10-11",
       "baseline": "68844d6d1b72e04f80258b55904d3d3b44101c97",
@@ -1556,5 +1562,54 @@
     "status": "Current-tree cleanup verified: 34 recording-preparation files excluded, local copies and 86 owner snapshots preserved, all 64 protected application/test/config files unchanged, scoped documentation checks and independent review passed. Initial private publication/readbacks and E035 saved tracker comparisons are complete. Earlier commits retain historical copies; no history purge or new application test is claimed.",
     "tracker_sync": "E035 saved through browser MCP: exactly 11 Sheet values; no unexpected/style/formula/structure changes; unique E035 and complete 43904-character prior Context suffix (final 45010). Kaneo final 185352 text/219196 HTML retains complete prior 182523 text/215971 HTML; Saved/reload/title/status/date/board unchanged.",
     "source_artifact": "c8b4746788da5550f5d1dee6033bfdfcdf8c9171"
+  },
+  "planning_calendar": {
+    "date": "2026-10-14",
+    "specification": "docs/specs/capstone/increments/planning-calendar.md",
+    "verification": "docs/specs/capstone/increments/planning-calendar-verification.md",
+    "review": "docs/specs/capstone/reviews/2026-10-14-planning-calendar-review.md",
+    "research": "R43 closed before frontend edits: native selection/API/accessibility/lifetime research plus four inspected precode references and an actual isolated Edge calendar popup. Later optional-label reference and two source-traced edge-case addenda preceded their corrections.",
+    "scope": "Native availability picker with unique chronological add/remove list; optional manual-topic label and unambiguous AI review; ISO API/schema/dependencies unchanged.",
+    "checks": "Earlier focused results and user-requested recording pause are preserved. 15 October combined verification passed: 100 domain/server tests, 115 browser tests, and static/type, lint, format, build, process and dependency audit checks. Completed 15/10/2026, 10:45:42 Africa/Lagos. Isolated synthetic data and mocked AI only.",
+    "status": "Implemented and included in the passing15October combined lifecycle verification. No commit, push or shared tracker write authorized/performed.",
+    "limitations": "Synthetic isolated verification/mocked responses only; no live sponsored request, ordinary learner-data change, fresh Docker-platform run, learner outcome or timed recording. Native calendar appearance and language are browser-controlled."
+  },
+  "learning_lifecycle": {
+    "date": "2026-10-15",
+    "specification": "docs/specs/capstone/increments/learning-lifecycle.md",
+    "verification": "docs/specs/capstone/increments/learning-lifecycle-verification.md",
+    "review": "docs/specs/capstone/reviews/2026-10-15-learning-lifecycle-review.md",
+    "visual": "docs/specs/capstone/designs/learning-lifecycle/README.md",
+    "research": "R44 complete before production edits; content-free receipts, owner/revision lifecycle rules, latest snapshot/current correction recovery and rotating encouragement IDs verified in source and isolated feasibility research.",
+    "scope": "Whole-plan archive/view/restore/delete; session/reflection removal; retained completion corrections; removed-step recovery with optional historical links; own encouragement withdrawal. No account deletion or reversible circle archive.",
+    "status": "LC01–LC07 implemented and verified locally; independent source/visual follow-up has no blocker. Shared delivery remains pending explicit approval.",
+    "checks": "15 October combined verification passed: 100 domain/server tests, 115 browser tests, and static/type, lint, format, build, process and dependency audit checks. Completed 15/10/2026, 10:45:42 Africa/Lagos. Isolated synthetic data and mocked AI only. Six final actual captures: no measured overflow,44px visible targets;9source hashes match. Browser MCP observed archive/FR/cancel/restore;16docs/259links/13anchors/10PNG/26labels validated. Enlarged-FR skip-link capture limitation retained.",
+    "limitations": "French enlarged deletion capture has a documented fixed skip-link overlay. No ordinary learner mutation/live provider call, secure-erasure/provider-recall claim, learner outcome, exhaustive accessibility or new Docker-platform verification.",
+    "delivery": "Local files and tracker draft only. No commit/push/shared write authorized or performed; concrete content and destinations require Michael's explicit approval.",
+    "previous_active": {
+      "id": "planning-calendar",
+      "date": "2026-10-14",
+      "status": "Implemented with focused checks; final pipeline stopped at Michael's request to prioritize recording. Preserved and included in15October combined lifecycle verification."
+    }
+  },
+  "publication_preparation": {
+    "date": "2026-10-15",
+    "user_decision": "Leave school repository public for now; personal stays private.",
+    "personal": {
+      "repository": "IronSyd/littlefurther",
+      "id": 1419648862,
+      "visibility": "private",
+      "base": "140aca3d35c53b689901543240876c2d69a97cc0"
+    },
+    "school": {
+      "repository": "MikeIronSyd/littlefurther",
+      "id": 1419658733,
+      "visibility": "public",
+      "base": "c3a07fe96247808bb0c20ebd77c5e8a22e7e6535"
+    },
+    "title": "Complete learning lifecycle controls and calendar planning",
+    "approval": "Concrete source and tracker batch being prepared; no commit/push/shared write performed.",
+    "evidence": "Required verify exit0:100domain/server+115browser,15October10:45:42Africa/Lagos. Scope/source/artwork and owner readbacks checked separately.",
+    "privacy": "No credentials,learner records,.local runtime,video scripts,storyboards or video-rehearsal packets are proposed. Prior private results remain dated history."
   }
 }

@@ -1,5 +1,11 @@
 # Capstone delivery plan
 
+15October local verification closeout: 15 October combined verification passed: 100 domain/server tests, 115 browser tests, and static/type, lint, format, build, process and dependency audit checks. Completed 15/10/2026, 10:45:42 Africa/Lagos. Isolated synthetic data and mocked AI only. See [lifecycle verification](increments/learning-lifecycle-verification.md) for corrections, limits and approval-pending shared delivery.
+
+15 October current local work: [learning lifecycle controls](increments/learning-lifecycle.md), LC01–LC07. R44 research and four precode desktop/mobile references preceded dependent implementation. The ordered backend/privacy, circle, frontend, verification and documentation tasks are recorded in that contract. The combined required pipeline includes the earlier calendar work; its previous interrupted attempts remain incomplete. Shared delivery requires approval of concrete proposed content/destinations.
+
+14October current local work: [calendar availability and AI review](increments/planning-calendar.md). R43 is closed; ordered tasks cover native selection, AI draft lifetime, affected tests, independent review and local evidence. Commits, pushes and shared tracker updates remain pending Michael's explicit approval of their concrete proposed content/destinations.
+
 14 October interface feedback: obsolete save status clears after accepted navigation, and one-step removal uses correct English/French wording. Fresh native-dialog regressions passed for plan, study/reflection, circle and preferences drafts. The prior required run passed 85 domain/server and 102 browser tests; these are dated results, not new tests for this documentation cleanup. See [regression tests](../../../tests/e2e/rehearsal-corrections.spec.ts). Recording preparation is kept locally.
 
 Latest saved result — 14 October: Docker technical verification, independent review and [E031/D019 tracker readbacks](reviews/2026-10-14-docker-trackers.md) are complete. Reviewed implementation is published and read back; documentary closeout uses the same authorized normal procedure and verifies its intended source reference. The next product deliverable remains the timed demo/submission, with learner validation and later human AI-surface review distinct.

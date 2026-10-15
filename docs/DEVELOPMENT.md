@@ -43,6 +43,8 @@ Use a new empty ignored `CAPSTONE_DATA_DIR` for experiments; never point tests a
 
 Optional AI uses server-only `OPENAI_API_KEY` from the environment or ignored `.local/ai-provider.env`. Never put keys in `VITE_` configuration, browser storage, tracked examples, logs or chat. `CAPSTONE_AI_DISABLED=1` disables AI before loading credentials. No BYOK, automatic retry, provider fallback, purchase or top-up exists. [Operations](operations/local-demo.md) covers configuration/failure/recovery.
 
+For [lifecycle controls](specs/capstone/increments/learning-lifecycle.md), keep activity writes revision-aware as well as plan edits/completions. Tests must inspect current state and receipt contents, not rely on historical full-response snapshots: retries return current authorized state without repeating a write. Exercise archive/read-only/restore, transactional private-record cleanup, corrected completion totals, latest-snapshot step restoration and stale encouragement withdrawal with isolated records. Use sacrificial synthetic plans for destructive checks; keep ordinary learner data and local-only recording material untouched. Actual results belong in the [lifecycle verification record](specs/capstone/increments/learning-lifecycle-verification.md).
+
 ## Adapt templates and translations
 
 1. Inspect `src/domain/templates.ts`, validators/contracts and [P10 adaptation evidence](specs/capstone/increments/reuse.md). Keep the supported template ID stable; change its version only with explicit compatibility/stored-history handling.
