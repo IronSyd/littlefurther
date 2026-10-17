@@ -109,3 +109,7 @@ The required 3–5 minute video should show the learning problem, working soluti
 ## Done When
 
 The research and image-first gates are satisfied; AC01–AC14 have actual evidence or explicit authorized scoped exceptions; required tests and review findings are resolved; reuse/demo records are honest; README and production gaps agree with delivered behavior; both trackers reflect actual work; both private remote heads match their independently expected commits with equivalent application source. Global Codex recovery is separate from capstone completion. No material product work is complete at the initial saved-plan stage. Record actual status after each increment rather than converting this plan into a retrospective success claim.
+
+## Current local increment —17October2026
+
+[UI refinement](increments/ui-refinement.md) is the active ordered work: R45 → precode references → planner/AI/shared client increments → targeted regressions → required combined verification → independent review and bounded actual visual inspection → local evidence and exact delivery drafts. Earlier completed releases remain dated evidence. Any local commit, push or tracker/shared write requires Michael's fresh approval of the concrete batch. See [actual status](increments/ui-refinement-verification.md).
